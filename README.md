@@ -156,11 +156,11 @@ Después de modificar o añadir algo al código, recuerda o reiniciar tu bot o u
 
 ## ⚙️ Uso:
 
-## LOCK
-![logo](https://cdn.discordapp.com/attachments/933698201486237716/1036045350269628416/unknown.png)
+## TICKET-SETUP
+![logo](https://cdn.discordapp.com/attachments/933698201486237716/1036047858740244602/unknown.png)
 
-## UNLOCK
-![logo](https://cdn.discordapp.com/attachments/933698201486237716/1036045392997011516/unknown.png)
+## TICKET-TRANSCRIPTS
+![logo](https://cdn.discordapp.com/attachments/933698201486237716/1036048038327762974/unknown.png)
 
 
 
