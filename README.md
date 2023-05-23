@@ -15,6 +15,7 @@
 
 ```js
 const transcripts = require("discord-html-transcripts");
+const db = require("quick.db"); //Recuerda que debes usar la versión 7.1.3 de QuickDB.
 ```
 
 ## 🚀 Código de TICKET-SETUP
